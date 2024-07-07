@@ -1,0 +1,84 @@
+@import url("https://fonts.cdnfonts.com/css/gilroy-bold");
+
+@import url(https://db.onlinewebfonts.com/c/000833a3a58fb083c44b9de42c2ff0a2?family=Gilroy-SemiBold);
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+body {
+  scroll-behavior: smooth;
+  font-family: "Gilroy-Bold", sans-serif;
+  font-weight: 400;
+  color: #000;
+}
+img {
+  max-width: 100%;
+}
+button {
+  font-family: "Gilroy-Bold", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+}
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.header {
+    margin-top: 40px;
+    margin-bottom: 84px;
+}
+.navigation {
+}
+
+.nav-link {
+  font-family: "Gilroy-SemiBold";
+  font-weight: 400;
+  font-size: 14px;
+  color: #000;
+}
+
+.home {
+  color: #f25822;
+}
+.main {
+  padding-bottom: 162px;
+}
+.main-content {
+}
+.content {
+}
+.content-title {
+  font-weight: 400;
+  font-size: 60px;
+  margin-bottom: 17px;
+}
+.content-text {
+  font-family: "Gilroy-Medium", sans-serif;
+  font-size: 20px;
+  color: #888;
+  margin-bottom: 37px;
+}
+.content-btn-box {
+}
+.btn-select {
+  border-radius: 50px;
+  box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+  background: #f25822;
+  color: #fff;
+}
+.content-btn {
+    background: none;
+    color: #aaa;
+}
+.content-img {
+}
+.footer {
+  padding: 97px;
+}
+.logos {
+}
